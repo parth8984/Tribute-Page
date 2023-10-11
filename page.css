@@ -1,0 +1,34 @@
+#quote-image-section{
+    display: flex;
+    background-color: white;
+    align-items: center;
+
+
+}
+#biography-part{
+width: 50%;
+color: white;
+margin: 0px auto;
+}
+#para{
+color: white;
+text-align: center;
+
+
+
+}
+
+#quote{
+padding-left: 30px;
+width: 70%;
+font-size: 48px;
+}
+#steve-job-img{
+width: 30%;
+}
+
+
+body{
+background-color: black;
+margin: 0px;
+}
